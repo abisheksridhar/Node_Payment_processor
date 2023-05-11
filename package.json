@@ -1,0 +1,25 @@
+{
+  "name": "payment_processor",
+  "version": "1.0.0",
+  "description": "API to process and verify the payments made by the user.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abisheksridhar/Node_Payment_processor.git"
+  },
+  "keywords": [
+    "payments"
+  ],
+  "author": "abisheks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abisheksridhar/Node_Payment_processor/issues"
+  },
+  "homepage": "https://github.com/abisheksridhar/Node_Payment_processor#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
